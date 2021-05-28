@@ -5,3 +5,4 @@ If your paper was withdrawn or not orally presented, it is not eligible for publ
 You will need the abstract ID and password assigned when you initially submitted an abstract. 
 If you have forgotten your password, go to the submission site, enter your Abstract ID, and request to have your password emailed to you.
 
+Papers must be submitted as pdf. An example of the template is provided.
