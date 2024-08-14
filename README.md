@@ -10,5 +10,4 @@ The template is also available on Overleaf at - https://www.overleaf.com/latex/t
 
 Papers must be submitted as pdf. An example of the template is provided.
 
-Visit the submission page - https://ww2.amstat.org/meetings/ices/2021/abstractsubmission/index.cfm and select "edit an existing abstract" to access
-the proceedings submission.
+Visit this form - https://forms.gle/YWcwhuYQGvTsgmir5 - to upload your submission
